@@ -1,0 +1,22 @@
+angular.callbacks._0(
+  {
+    "teletubbies": [
+      { "name": "Tinky Winky", "age": 7, "height": 3 },
+      { "name": "LaLa", "age": 3, "height": 4 },
+      { "name": "Po", "age": 6, "height": 1 }
+    ],
+    "pokemon": {
+      "cols": [ "name", "type", "age", "height"],
+      "rows": [
+        [ "Boris", "Charzard", 1, 4 ],
+        [ "Jean-Michel", "Charzard", 3, 7 ],
+        [ "Jack", "Pikachu", 2, 1 ],
+        [ "Sylvia", "Pikachu", 8, 3 ],
+        [ "Eleanor", "Pikachu", 5, 2 ],
+        [ "Bianca", "Jigglypuff", 1, 0.5 ],
+        [ "Maurice", "Jigglypuff", 9, 3 ],
+        [ "User Input Error", "(unknown)", 1, NaN ]
+      ]
+    }
+  }
+)

@@ -1,0 +1,56 @@
+text {
+  font: 12px sans-serif;
+}
+
+svg {
+  display: block;
+}
+
+html, body, .full-size {
+  margin: 0px;
+  padding: 0px;
+  height: 100%;
+  width: 100%;
+}
+
+#inputWrapper {
+  margin: 0px;
+  padding: 0px;
+  height: 10%;
+  width: 100%;
+}
+
+#selectWrapper {
+  margin: 0px;
+  padding: 20px;
+}
+
+#chartWrapper {
+  margin: 0px;
+  padding: 0px;
+  height: 90%;
+  width: 100%;
+}
+
+#ageHeightTable {
+  margin: 0px;
+  padding: 20px;
+  height: 90%;
+  width: 90%;
+}
+
+.nv-axis .tick line {
+  display: none
+}
+
+.nv-axis .tick.zero line {
+  display: block
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 15px;
+}

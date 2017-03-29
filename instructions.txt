@@ -1,0 +1,26 @@
+Instructions
+===============================
+
+To load the app, open index.html in the Chrome web browser.
+
+You may edit index.html, app.js and app.css Assume that data.json comes
+from the server at runtime and cannot be edited.
+
+Two screenshots of the completed app, chart.png and table.png are included.
+
+Several bugs exist in the app, which must be corrected.
+
+In addition, you must complete the method getPokemonGroup. Feel free to add
+any supporting methods to help with this.
+
+
+Requirements
+===============================
+
+  - The app only needs to work in Chrome, not Firefox or Internet Explorer
+  - The app has two views: Chart and Table
+  - When the user clicks the button "Show me the chart!", the scatter chart should show
+  - When the user clicks the button "Show me the table!", the table should show
+  - The x axis should be labeled "Age (Years)"
+  - The y axis should be labeled "Height (Meters)"
+  - The table should be sorted alphabetically by Name
